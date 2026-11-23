@@ -1,0 +1,7 @@
+{
+  "version": "0.7.0",
+  "file": "update.gz",
+  "sha256": "2f00e0c01c2c4bbe49678eee25c46b2ce2a6f2d72f9da30e3986d7dac7cd642a",
+  "notes": "Versão inicial com atualizador",
+  "minShell": 1
+}
