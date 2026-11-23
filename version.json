@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "file": "update.gz",
-  "sha256": "2f00e0c01c2c4bbe49678eee25c46b2ce2a6f2d72f9da30e3986d7dac7cd642a",
-  "notes": "Versão inicial com atualizador",
+  "sha256": "ad1cc6e2186da03bae35dd43c9ea2c94b4a1ac43ebe0a9968edf7fe0dd1ce643",
+  "notes": "Novo: Retrospectiva, Noite de Cinema e troféus secretos",
   "minShell": 1
 }
