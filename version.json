@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "file": "update.gz",
-  "sha256": "ad1cc6e2186da03bae35dd43c9ea2c94b4a1ac43ebe0a9968edf7fe0dd1ce643",
-  "notes": "Novo: Retrospectiva, Noite de Cinema e troféus secretos",
+  "sha256": "e0026f79da9659097130542306644591caa07e4766fb6a4da65d4978f0fb0572",
+  "notes": "Novo: aba Animes (MyAnimeList) e troféus de anime",
   "minShell": 1
 }
