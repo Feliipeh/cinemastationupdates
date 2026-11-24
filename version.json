@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "file": "update.gz",
-  "sha256": "e0026f79da9659097130542306644591caa07e4766fb6a4da65d4978f0fb0572",
-  "notes": "Novo: aba Animes (MyAnimeList) e troféus de anime",
+  "sha256": "82b878932daf14f03083efd489c5c72de8409a79351d63213b1bffbd4e197d6b",
+  "notes": "Correção: aba Animes (limite de tempo, reserva AniList e mensagens de erro)",
   "minShell": 1
 }
