@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
+  "version": "1.0.0",
   "file": "update.gz",
-  "sha256": "82b878932daf14f03083efd489c5c72de8409a79351d63213b1bffbd4e197d6b",
-  "notes": "Correção: aba Animes (limite de tempo, reserva AniList e mensagens de erro)",
+  "sha256": "94c256e509e40a99ba6581fe452e9bf67b98f6ea6e6c8195b156b74f99e15c93",
+  "notes": "Novo menu: perfil com Assistidos, Retrospectiva e Troféus; Noite de Cinema na Minha lista; animes via AniList",
   "minShell": 1
 }
