@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "file": "update.gz",
-  "sha256": "782f0b6f26184350abafe3f7464d5e29d66bbfa0f608f29a54cb68c89b89bc1e",
-  "notes": "Séries com episódios, Modo TV, diretores e atores na Retrospectiva",
+  "sha256": "fd86d00b40e63b7108154ae10b69d68914e275dbc5e997244348dc674484eee4",
+  "notes": "Sala de cinema: assistam juntos com amigos (play, pause e pular sincronizados, chat e reações)",
   "minShell": 1
 }
