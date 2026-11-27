@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "file": "update.gz",
-  "sha256": "94c256e509e40a99ba6581fe452e9bf67b98f6ea6e6c8195b156b74f99e15c93",
-  "notes": "Novo menu: perfil com Assistidos, Retrospectiva e Troféus; Noite de Cinema na Minha lista; animes via AniList",
+  "sha256": "782f0b6f26184350abafe3f7464d5e29d66bbfa0f608f29a54cb68c89b89bc1e",
+  "notes": "Séries com episódios, Modo TV, diretores e atores na Retrospectiva",
   "minShell": 1
 }
