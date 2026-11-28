@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "file": "update.gz",
-  "sha256": "fd86d00b40e63b7108154ae10b69d68914e275dbc5e997244348dc674484eee4",
-  "notes": "Sala de cinema: assistam juntos com amigos (play, pause e pular sincronizados, chat e reações)",
+  "sha256": "eab6e576b2024a1b8cbf91210220f202667d9ad75c66bc33d08aced66350a9ba",
+  "notes": "Player: links externos abrem fora do app, servidor reinicia sozinho, avisos melhores e diagnóstico no log.txt",
   "minShell": 1
 }
